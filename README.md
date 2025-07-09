@@ -17,7 +17,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Visit Deployed Site](https://orebishopping.vercel.app) _(Update link if deployed)_
+👉 [Visit Deployed Site](https://orebishopping.vercel.app) 
 
 ---
 
