@@ -21,11 +21,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> _(Add screenshots here if available, or paste them into this README using drag-drop on GitHub)_
-
----
 
 ## 🛠️ Getting Started
 
